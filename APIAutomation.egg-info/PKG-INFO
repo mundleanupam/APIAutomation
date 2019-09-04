@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: APIAutomation
+Version: 0.2
+Summary: Automate API
+Home-page: http://localhost
+Author: Anupam Mundale
+Author-email: mundleanupam@gmail.com
+License: MIT
+Description: Automate API
+Keywords: lyft,api,sdk,rides,library
+Platform: UNKNOWN

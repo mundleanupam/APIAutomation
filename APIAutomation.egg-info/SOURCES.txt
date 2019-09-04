@@ -1,0 +1,14 @@
+setup.py
+APIAutomation.egg-info/PKG-INFO
+APIAutomation.egg-info/SOURCES.txt
+APIAutomation.egg-info/dependency_links.txt
+APIAutomation.egg-info/requires.txt
+APIAutomation.egg-info/top_level.txt
+api_requests/__init__.py
+api_requests/errors.py
+api_requests/request.py
+api_requests/utils/__init__.py
+api_requests/utils/auth.py
+api_requests/utils/handlers.py
+api_requests/utils/http.py
+api_requests/utils/request.py
